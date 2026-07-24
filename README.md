@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Daniel o.O 
+## ¡Hola! 👋 Soy Daniel Crispin 
 ![Coding](https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif)
 <!--
 **danielcr04/danielcr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
